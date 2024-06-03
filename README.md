@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Me llamo Pedro Arellano</h1>
 <h3 align="center">soy un Backend apasionado</h3>
 
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ pedro-arellano-b0ab63285](www.linkedin.com/in/ pedro-arellano-b0ab63285)
+
 - 💬 Puedes preguntarme sobre **Java, Springboot, Python**
 
 - 📫 Puedes contactarme en **pedroarellano9810@gmail.com**
