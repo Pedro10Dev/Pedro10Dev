@@ -1,14 +1,13 @@
 <h1 align="center">Hola 👋, Me llamo Pedro Arellano</h1>
 <h3 align="center">soy un Backend apasionado</h3>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ pedro-arellano-b0ab63285](www.linkedin.com/in/ pedro-arellano-b0ab63285)
-
 - 💬 Puedes preguntarme sobre **Java, Springboot, Python**
 
 - 📫 Puedes contactarme en **pedroarellano9810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/pedro arellno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro arellno" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
